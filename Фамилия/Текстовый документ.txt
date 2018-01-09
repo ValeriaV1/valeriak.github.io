@@ -1,0 +1,16 @@
+<html>
+
+<head>
+<title>Здесь живет Лера</title>
+</head>
+
+<body background=111.jpg>
+  <h1 align=center><font color=white>Дом, в котором я живу </font></h1>
+  <img src=dom.jpg hspace=20>
+  <p align="justify">
+  <font color white face="Arial" size=11>Этот дом похож на тот, в котором я живу. 
+  </font></p>
+  <a href=index.html>На главную</a>
+</body>
+
+<html>
